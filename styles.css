@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(rgba(250, 236, 163, 0.965), white);
+    background-repeat: no-repeat;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    -webkit-text-stroke: 1.8px black;
+    color: white;
+    font-size: 50px;
+    letter-spacing: 0px;
+    text-shadow: 0px 0px 5px rgb(53, 38, 0);
+}
+
+.title img {
+    width: 38px;
+}
+
+.front img {
+    margin: auto;
+    display: block;
+    width: 300px;
+    box-shadow: 0px 0px 15px rgb(122, 85, 0);
+}
+
+.front {
+    text-align: center;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+uo {
+    text-align: center;
+    list-style-type: none;
+}
+
+button {
+    color: white;
+    background-color: rgb(169, 141, 65);
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 18px;
+    border-radius: 4px;
+    border-style: none;
+}
